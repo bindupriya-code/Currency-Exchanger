@@ -50,7 +50,7 @@ currency-converter/
 
  📷 Demo Screenshot 
 
-![Image Alt](<img width="862" height="615" alt="image" src="https://github.com/user-attachments/assets/1bb0b760-5ac6-4b93-a841-543b1b756fbb" />)
+![Image Alt](https://github.com/bindupriya-code/Currency-Exchanger/blob/4adb243e583d84e16c026cb713ce65544b06158b/currency-converter-demo.png.jpeg)
 
 ---
 
