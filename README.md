@@ -1,7 +1,5 @@
 💱 Currency Converter – Mini Project
 
-📌 Overview
-
 This is a simple **Currency Converter Web Application** built using **HTML, CSS, and JavaScript**.
 The project allows users to quickly convert an amount from one currency to another using real-time exchange rates.
 
@@ -50,13 +48,13 @@ currency-converter/
 
 ---
 
-## 📷 Demo Screenshot (Optional)
+ 📷 Demo Screenshot (Optional)
 
-[currency-converter-demo png](https://github.com/user-attachments/assets/23231dc8-2bb2-4940-9334-c4b3f6fb338d)
+![image alt](https://github.com/bindupriya-code/Currency-Exchanger/blob/main/currency-converter-demo.png.jpeg?raw=true)
 
 ---
 
-## 🔮 Future Improvements !
+ 🔮 Future Improvements !
 
 
 * Add **dark mode** 🌙
@@ -66,6 +64,6 @@ currency-converter/
 
 ---
 
-## 📜 License
+ 📜 License
 
 This project is free to use and open-source.
