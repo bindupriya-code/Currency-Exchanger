@@ -48,9 +48,10 @@ currency-converter/
 
 ---
 
- 📷 Demo Screenshot (Optional)
+ 📷 Demo Screenshot 
 
-![image alt](https://github.com/bindupriya-code/Currency-Exchanger/blob/main/currency-converter-demo.png.jpeg?raw=true)
+<img width="721" height="594" alt="image" src="https://github.com/user-attachments/assets/c640927a-fc86-4e31-a925-8d6a9b871e87" />
+
 
 ---
 
