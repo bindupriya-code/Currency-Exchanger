@@ -50,8 +50,7 @@ currency-converter/
 
  📷 Demo Screenshot 
 
-<img width="721" height="594" alt="image" src="https://github.com/user-attachments/assets/c640927a-fc86-4e31-a925-8d6a9b871e87" />
-
+![Image Alt](<img width="862" height="615" alt="image" src="https://github.com/user-attachments/assets/1bb0b760-5ac6-4b93-a841-543b1b756fbb" />)
 
 ---
 
