@@ -48,12 +48,6 @@ currency-converter/
 
 ---
 
- 📷 Demo Screenshot 
-
-![Image Alt](https://github.com/bindupriya-code/Currency-Exchanger/blob/4adb243e583d84e16c026cb713ce65544b06158b/currency-converter-demo.png.jpeg)
-
----
-
  🔮 Future Improvements !
 
 
